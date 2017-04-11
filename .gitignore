@@ -95,3 +95,6 @@ ENV/
 
 # Idea
 .idea/
+
+# virtualenv
+virenv/
